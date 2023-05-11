@@ -12,7 +12,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/davifsclemente/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/davifsclemente/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21791220/davi-clemente" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21791220/davi-clemente" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/davifsclemente/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/davifsclemente/" height="30" width="40" /></a>
-<a href="https://discord.gg/!Dave#9999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="!Dave#9999" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Linguagens e Ferramentas</h3>
