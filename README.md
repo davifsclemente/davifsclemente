@@ -7,6 +7,8 @@
 - 📫 Entre em contato comigo **davifsclementee@gmail.com**
 - ⚡ Fato divertido sobre mim **Tenho o dedo do meio do pé menor que os demais haha**
 
+![Davi Clemente GitHub stats](https://github-readme-stats.vercel.app/api?username=davifsclemente&show_icons=true&theme=tokyonight)
+
 <h3 align="center">Conecte-se comigo!</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/davifsclemente/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/davifsclemente/" height="30" width="40" /></a>
