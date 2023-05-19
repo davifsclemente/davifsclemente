@@ -7,7 +7,11 @@
 - 📫 Entre em contato comigo **davifsclementee@gmail.com**
 - ⚡ Fato divertido sobre mim **Tenho o dedo do meio do pé menor que os demais haha**
 
-![Davi Clemente GitHub stats](https://github-readme-stats.vercel.app/api?username=davifsclemente&show_icons=true&theme=tokyonight)
+<div align="center">
+  <a href="https://github.com/davifsclementee">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=davifsclemente&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifsclemente&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
 
 <h3 align="center">Conecte-se comigo!</h3>
 <p align="center">
