@@ -8,7 +8,7 @@
 - ⚡ Fato divertido sobre mim **Tenho o dedo do meio do pé menor que os demais haha**
 
 <div align="center">
-  <a href="https://github.com/davifsclementee">
+  <a href="https://github.com/davifsclemente">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=davifsclemente&show_icons=true&theme=github_dark&include_all_commits=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifsclemente&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
