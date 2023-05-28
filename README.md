@@ -1,7 +1,6 @@
-<h1 align="center">Olá!👋, Eu sou o Davi Clemente</h1>
-<h3 align="center">Bacharel em Ciências Exatas e Tecnológicas na UFRB</h3>
+<h1 align="center">Olá!, Eu sou o Davi Clemente</h1>
+<h3 align="center">Analista e Desenvolvedor de Sistemas Júnior</h3>
 
-- 🌱 Analista e Desenvolvedor de Sistemas Júnior
 - 👨‍💻 Visite meu portifólio [https://davifsclemente.github.io/postfolio/](https://davifsclemente.github.io/postfolio/)
 - 📫 Entre em contato comigo **davifsclementee@gmail.com**
 - ⚡ Fato divertido sobre mim **Tenho o dedo do meio do pé menor que os demais haha**
