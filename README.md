@@ -6,14 +6,13 @@
 
 <div align="center">
   <a href="https://github.com/davifsclemente">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=davifsclemente&show_icons=true&theme=github_dark&include_all_commits=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=davifsclemente&theme=github_dark&include_all_commits=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifsclemente&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 <h3 align="center">Conecte-se comigo!</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/davifsclemente/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21791220/davi-clemente" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a>
 <a href="https://www.instagram.com/davifsclemente/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
 
