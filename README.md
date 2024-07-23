@@ -28,3 +28,7 @@
     Sem mais nem menos, estou disponível para trabalhar e adquirir experiência para me tornar um profissional de qualidade e que seja capaz de somar ond quer que esteja.
     Abraços!
 </p>
+
+![Snake Animation](https://github.com/davifsclemente/davifsclemente/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats-vercel.app/api/pin/?username=davifsclemente&repo=davifsclemente&theme=react)](https://github.com/davifsclemente/davifsclemente)
