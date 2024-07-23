@@ -29,6 +29,4 @@
     Abraços!
 </p>
 
-![Snake Animation](https://github.com/davifsclemente/davifsclemente/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats-vercel.app/api/pin/?username=davifsclemente&repo=davifsclemente&theme=react)](https://github.com/davifsclemente/davifsclemente)
+![snake animation](https://github.com/davifsclemente/davifsclemente/blob/output/github-contribution-grid-snake2.svg)
